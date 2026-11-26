@@ -1,4 +1,4 @@
-# KIUT ONE — The Digital Ecosystem
+# [KIUT ONE — The Digital Ecosystem](https://fazikhuddin.github.io)
 
 Axborot texnologiyalari kafedrasi · Кафедра информационных технологий
 
